@@ -1,17 +1,14 @@
 function Home() {
   return (
     <h1>
-      Nayara, fala pra mim, que presente caro, vais me conceder no casam ento?
+      Eis que profetizo sobre ti, Samuel, seus dias como programador medíocre
+      estão contados.
     </h1>
   );
 }
 
-function Teste() {
-  console.log("Teste");
-}
-
-function Teste2() {
-  console.log("Indentação errada");
+function teste() {
+  return <h1>Teste</h1>;
 }
 
 export default Home;
